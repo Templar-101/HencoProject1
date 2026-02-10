@@ -1,0 +1,5 @@
+aws_region        = "us-east-1"
+ami_id            = "ami-0c1fe732b5494dc14"
+vpc_id            = "vpc-09f9a02359f8862ad"
+subnet_id         = "subnet-02c54e0679129396f"
+security_group_id = "sg-08766eabe9c8d620e"
